@@ -1,0 +1,33 @@
+
+body {
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #00416a 0%, #91adc9 100%);
+
+}
+.container {
+    width: 30%;
+    margin-top: 10%;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+
+    box-shadow: rgba(0, 0, 0, 0.4) -5px 5px, rgba(0, 0, 0, 0.3) -10px 10px, rgba(0, 46, 170, 0.2) -15px 15px, rgba(0, 0, 0, 0.1) -10px 10px, rgba(0, 0, 0, 0.05) -0 0;
+    
+    /* box-shadow: rgba(67, 107, 239, 0.4) 5px 5px, rgba(33, 139, 245, 0.3) 10px 10px, rgba(11, 109, 206, 0.3) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px; */
+}
+
+.btn {
+    width: 48%;
+}
+
+label {
+    font-weight: bold;
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(rgb(8, 41, 138), rgb(0, 0, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 5px rgb(253, 253, 253), 0 0 30px #28343b, 0 0 40px #72c3ee, 0 0 50px #72c3ee, 0 0 60px #72c3ee, 0 0 70px #72c3ee, 0 0 80px #ff4da6;
+}
+
